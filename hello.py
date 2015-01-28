@@ -1,2 +1,2 @@
-#!/usr/bin/enu python
-print ('hello word.')
+#!/usr/bin/env python
+print ('hello,world.')
